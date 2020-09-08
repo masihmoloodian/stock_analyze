@@ -12,3 +12,7 @@ helps to analyze Iranian stocks based on TSE and CODAL data
 ```
 python3 ./compare_eps.py
 ```
+3-Output: CSV format
+```
+symbol_name.csv
+```
